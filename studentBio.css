@@ -1,0 +1,47 @@
+h1 {
+	color: #eee;
+	font-size: 28px;
+	background-color: black; 
+	text-align: center;
+	padding: 20px 20px 20px 20px;
+}
+
+h2 {
+	font-size: 24px;
+	padding-left: 18px;
+}
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #efeee7;
+	font-family: Georgia;
+	color: #333333;
+}
+
+#mainBio {
+	float: left;
+	width: 65%;
+}
+
+#bio-image {
+	float: left;
+	width: 200px;
+	margin: 3px 25px 25px 25px;
+}
+
+#contact-info {
+	float: left;
+	width: 35%;
+}
+
+.link {
+	font-weight: bold;
+}
+
+a:link {
+	color: red;
+}
+
+a:visited {
+	color: red;
+}
